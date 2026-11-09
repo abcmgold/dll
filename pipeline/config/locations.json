@@ -1,0 +1,20 @@
+{
+  "_note": "15 tỉnh/thành miền Bắc theo địa giới từ 01/07/2025. Mỗi tỉnh 1 toạ độ đại diện = trung tâm hành chính mới.",
+  "provinces": [
+    {"province_id": "HN",  "province_name": "Hà Nội",      "merged_from": "Không đổi",                      "center_name": "Hà Nội",      "lat": 21.0285, "lon": 105.8542},
+    {"province_id": "HP",  "province_name": "Hải Phòng",   "merged_from": "Hải Phòng + Hải Dương",          "center_name": "Hải Phòng",   "lat": 20.8449, "lon": 106.6881},
+    {"province_id": "QN",  "province_name": "Quảng Ninh",  "merged_from": "Không đổi",                      "center_name": "Hạ Long",     "lat": 20.9511, "lon": 107.0806},
+    {"province_id": "BN",  "province_name": "Bắc Ninh",    "merged_from": "Bắc Ninh + Bắc Giang",           "center_name": "Bắc Giang",   "lat": 21.2731, "lon": 106.1946},
+    {"province_id": "HY",  "province_name": "Hưng Yên",    "merged_from": "Hưng Yên + Thái Bình",           "center_name": "Hưng Yên",    "lat": 20.6464, "lon": 106.0511},
+    {"province_id": "NB",  "province_name": "Ninh Bình",   "merged_from": "Ninh Bình + Nam Định + Hà Nam",  "center_name": "Ninh Bình",   "lat": 20.2506, "lon": 105.9745},
+    {"province_id": "PT",  "province_name": "Phú Thọ",     "merged_from": "Phú Thọ + Vĩnh Phúc + Hòa Bình", "center_name": "Việt Trì",    "lat": 21.3227, "lon": 105.4024},
+    {"province_id": "TN",  "province_name": "Thái Nguyên", "merged_from": "Thái Nguyên + Bắc Kạn",          "center_name": "Thái Nguyên", "lat": 21.5942, "lon": 105.8482},
+    {"province_id": "TQ",  "province_name": "Tuyên Quang", "merged_from": "Tuyên Quang + Hà Giang",         "center_name": "Tuyên Quang", "lat": 21.8236, "lon": 105.2140},
+    {"province_id": "LCA", "province_name": "Lào Cai",     "merged_from": "Lào Cai + Yên Bái",              "center_name": "Yên Bái",     "lat": 21.7229, "lon": 104.9113},
+    {"province_id": "LS",  "province_name": "Lạng Sơn",    "merged_from": "Không đổi",                      "center_name": "Lạng Sơn",    "lat": 21.8537, "lon": 106.7615},
+    {"province_id": "CB",  "province_name": "Cao Bằng",    "merged_from": "Không đổi",                      "center_name": "Cao Bằng",    "lat": 22.6657, "lon": 106.2578},
+    {"province_id": "LCH", "province_name": "Lai Châu",    "merged_from": "Không đổi",                      "center_name": "Lai Châu",    "lat": 22.3964, "lon": 103.4583},
+    {"province_id": "DB",  "province_name": "Điện Biên",   "merged_from": "Không đổi",                      "center_name": "Điện Biên Phủ", "lat": 21.3860, "lon": 103.0230},
+    {"province_id": "SL",  "province_name": "Sơn La",      "merged_from": "Không đổi",                      "center_name": "Sơn La",      "lat": 21.3270, "lon": 103.9141}
+  ]
+}

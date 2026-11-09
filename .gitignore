@@ -1,0 +1,8 @@
+# Bí mật và cấu hình máy cá nhân
+.env
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -46,7 +46,6 @@ Tài khoản và cổng host cấu hình trong `.env`.
 Yêu cầu: Docker Desktop cấp ≥ 8 GB RAM.
 
 ```bash
-cp .env.example .env      # rồi đổi các giá trị changeme trong .env
 docker compose up -d --build
 ```
 
